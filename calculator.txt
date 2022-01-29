@@ -1,3 +1,5 @@
 
 this is a calculator i am learning git it is very
  simple and interesting
+
+i want to study algorithems and data structures in few weeks
